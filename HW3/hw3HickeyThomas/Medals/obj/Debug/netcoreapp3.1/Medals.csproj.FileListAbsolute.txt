@@ -1,0 +1,30 @@
+C:\Users\tomhi\source\repos\Medals\bin\Debug\netcoreapp3.1\Medals.exe
+C:\Users\tomhi\source\repos\Medals\bin\Debug\netcoreapp3.1\Medals.deps.json
+C:\Users\tomhi\source\repos\Medals\bin\Debug\netcoreapp3.1\Medals.runtimeconfig.json
+C:\Users\tomhi\source\repos\Medals\bin\Debug\netcoreapp3.1\Medals.runtimeconfig.dev.json
+C:\Users\tomhi\source\repos\Medals\bin\Debug\netcoreapp3.1\Medals.dll
+C:\Users\tomhi\source\repos\Medals\bin\Debug\netcoreapp3.1\Medals.pdb
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.csprojAssemblyReference.cache
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.Form1.resources
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.csproj.GenerateResource.cache
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.AssemblyInfoInputs.cache
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.AssemblyInfo.cs
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.csproj.CoreCompileInputs.cache
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.dll
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.pdb
+C:\Users\tomhi\source\repos\Medals\obj\Debug\netcoreapp3.1\Medals.genruntimeconfig.cache
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\bin\Debug\netcoreapp3.1\Medals.exe
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\bin\Debug\netcoreapp3.1\Medals.deps.json
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\bin\Debug\netcoreapp3.1\Medals.runtimeconfig.json
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\bin\Debug\netcoreapp3.1\Medals.runtimeconfig.dev.json
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\bin\Debug\netcoreapp3.1\Medals.dll
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\bin\Debug\netcoreapp3.1\Medals.pdb
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.csprojAssemblyReference.cache
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.Form1.resources
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.csproj.GenerateResource.cache
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.AssemblyInfoInputs.cache
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.AssemblyInfo.cs
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.csproj.CoreCompileInputs.cache
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.dll
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.pdb
+C:\Users\tomhi\OneDrive\Desktop\CS4253 - Windows Programming\HW3\Medals\obj\Debug\netcoreapp3.1\Medals.genruntimeconfig.cache

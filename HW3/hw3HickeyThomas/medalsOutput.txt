@@ -1,0 +1,15 @@
+USA Scores: 10 5 15  Russia Scores: 10 1 0
+USA won based on the medal count, USA won based on the medal colors.
+
+USA Scores: 10 5 15  Russia Scores: 10 6 10
+USA won based on the medal count, RUS won based on the medal colors.
+
+USA Scores: 12 5 10  Russia Scores: 5 20 30
+RUS won based on the medal count, USA won based on the medal colors.
+
+USA Scores: 10 0 15  Russia Scores: 10 5 30
+RUS won based on the medal count, RUS won based on the medal colors.
+
+USA Scores: 10 5 15  Russia Scores: 10 5 15
+Tie won based on the medal count, Tie won based on the medal colors.
+
